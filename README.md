@@ -2,6 +2,8 @@
 
 A lightweight local SQL workbench built with Streamlit, DuckDB, and pandas. Upload one or more CSV files, load each file into an in-memory DuckDB table, and run SQL queries across those tables in the same Streamlit session.
 
+Live App: https://csv-to-duckdb.streamlit.app/
+
 ## Project Files
 
 ```text
